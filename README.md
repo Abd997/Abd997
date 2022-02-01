@@ -1,4 +1,4 @@
-## abd@abd:~$ cat aboutme.txt
+# abd@abd:~$ cat aboutme.txt
 
 - Fullstack web engineer
 - Always learning and improving my skills 📒 🛠
@@ -6,7 +6,7 @@
 - Nature lover 🌱
 - I like cars 🚗
 
-## abd@abd:~$ cat projects.txt | grep mern
+# abd@abd:~$ cat projects.txt | grep mern
 
 I have worked on these projects to improve my skills.
 Projects are divided into two categories

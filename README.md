@@ -1,3 +1,20 @@
+```
+const life = () => {
+  try {
+      your best;
+      (things to do in life).map((goals while you still have time) => do them);
+      opportunities.map((opportunity) => grab them);
+      
+      if (haveFailed) { throw "all your worries") }
+      
+  } catch (yourself) {
+      everytime you fail;
+      and try again and again;
+  }
+};
+```
+
+
 # cat aboutme.txt
 
 - Fullstack web engineer

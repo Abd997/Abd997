@@ -1,15 +1,15 @@
 ```
 const life = () => {
   try {
-      your best;
-      (things to do in life).map((goals while you still have time) => do them);
-      opportunities.map((opportunity) => grab them);
+      const effort = your best;
+      (things to do in life).map((goals while you still have time) => do_them());
+      opportunities.map((opportunity) => grab_them());
       
       if (haveFailed) { throw "all your worries") }
       
   } catch (yourself) {
       everytime you fail;
-      and try again and again;
+      try_again_and_again();
   }
 };
 ```
@@ -21,7 +21,6 @@ const life = () => {
 - Always learning and improving my skills 📒 🛠
 - Currently on a 100 day (Start: 01-12-21) challenge to master MERN stack
 - Nature lover 🌱
-- I like cars 🚗
 
 # cat projects.txt | grep mern
 
